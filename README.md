@@ -3,6 +3,7 @@
 
 ![Vídeo](../GitHub_Finder/github_finder/src/assets/video.mp4)
 
+
 ## Busca de Usuários do GitHub
 
 Este projeto é uma aplicação React que permite buscar usuários do GitHub e mostrar algumas informações básicas sobre eles. A aplicação usa a API do GitHub para buscar informações de usuário com base no nome de usuário fornecido pelo usuário na barra de pesquisa.
