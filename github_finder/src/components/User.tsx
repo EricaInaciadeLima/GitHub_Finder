@@ -1,7 +1,5 @@
-import React from "react";
 import { UserProps } from "../Types/user";
 import { MdLocationPin } from "react-icons/md";
-import { Link } from "react-router-dom";
 import "./User.css";
 
 function User({
@@ -33,8 +31,6 @@ function User({
           <p className="number">{followers}</p>
         </div>
       </div>
-
-      <Link to={`/`}>Ver melhores projetos</Link>
     </div>
   );
 }

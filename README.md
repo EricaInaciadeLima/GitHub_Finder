@@ -1,7 +1,7 @@
 # GitHub Finder
 
 
-![image](https://user-images.githubusercontent.com/98967783/236973049-a054b7bb-2611-4fdb-8e7d-42b8428b6d61.png)
+![Vídeo](../GitHub_Finder/github_finder/src/assets/video.mp4)
 
 
 ## Busca de Usuários do GitHub

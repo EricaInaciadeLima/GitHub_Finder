@@ -29,6 +29,8 @@ function Home() {
     }
     
     setUser(userData)
+    console.log(data);
+    
   }
   return (
     <div>
