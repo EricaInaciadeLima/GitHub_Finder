@@ -1,8 +1,6 @@
 # GitHub Finder
 
-
-![Vídeo](../GitHub_Finder/github_finder/src/assets/video.mp4)
-
+![image](https://user-images.githubusercontent.com/98967783/236982886-6c63627c-f2de-4472-ae27-6228bbdfbf95.png)
 
 ## Busca de Usuários do GitHub
 
